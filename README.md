@@ -32,7 +32,7 @@ This is an Udacity Nanodegree project.I was interested in using Stackoverflow De
 - What are the most wanted Programming Languages in India According to Stackoverflow survey data of 2019 and 2020?
 
 ## Results <a name="results"></a>
-The main findings of the code can be found at the post available [here]()
+The main findings of the code can be found at the post available [here](https://medium.com/@satyaphani2404/stack-overflow-survey-in-india-d576ed81167a)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
